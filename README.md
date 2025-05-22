@@ -39,7 +39,7 @@ Lastly, we'll address inconsistencies in letter casing such as 'AARON HERNANDEZ'
 
 The dataset is now ready for further analysis.
 
-# Analysis of Sales Data from a Coffee Shop
+# Analysis of Sales Data using Pivot Table
 
 <p align="justify"> This dataset captures transactional data from a coffee shop, detailing individual sales across various store locations. Each row represents a unique transaction and includes key information such as the 'transaction_id', 'transaction_date', 'transaction_time', 'transaction_qty', 'store_location', 'product_type', 'unit_price' and so on. </p>
 
@@ -49,7 +49,13 @@ The dataset is now ready for further analysis.
 
 <img src="https://github.com/user-attachments/assets/e800eb38-6da0-44d4-835f-ef8be3977f5a" alt="New fields" width="200" height="100">
 
-## Monthly Revenue Breakdown
+## Pivot Tables
+
+We are going to use a pivot table to analyze the data, allowing us to efficiently summarize, filter, and compare key metrics such as sales performance by category, and across different time periods.
+
+<img src="https://github.com/user-attachments/assets/d84dbd25-ff42-429b-93d3-b334ddcbb346" alt="Pivot tables" width="180" height="250">
+
+### Monthly Revenue Breakdown
 <p align="justify">This chart presents the distribution of revenue over each month, offering insights into fluctuations in customer spending.</p>
 
 <img src="https://github.com/user-attachments/assets/38ffd646-0e10-4d99-a9be-9c7de3c95612" alt="First chart" width="600" height="250">
