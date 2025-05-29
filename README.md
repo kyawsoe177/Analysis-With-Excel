@@ -1,4 +1,4 @@
-# Analysis with Excel
+# Sales Overview Analysisl
 <p align="justify"><b>Problem Statement :</b> The business lacked a centralized, visual, and easily interpretable way to monitor sales performance across different store locations, product categories, time periods, and customer behavior patterns. Decision-makers were relying on fragmented data, making it difficult to identify trends, optimize inventory, and plan targeted marketing or operational strategies
 </p>
 
